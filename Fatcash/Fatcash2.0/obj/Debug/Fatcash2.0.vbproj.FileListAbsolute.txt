@@ -1,0 +1,36 @@
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\bin\Debug\Fatcash2.0.exe.config
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\bin\Debug\Fatcash2.0.exe
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\bin\Debug\Fatcash2.0.pdb
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\bin\Debug\Fatcash2.0.xml
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2.0.vbproj.AssemblyReference.cache
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2.0.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2._0.Form1.resources
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2._0.Resources.resources
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2.0.vbproj.GenerateResource.cache
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2.0.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2.0.exe
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2.0.xml
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2.0.pdb
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2._0.Registro.resources
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2._0.Ingreso.resources
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2._0.Metas.resources
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2._0.Principal.resources
+C:\Users\gabri\Documents\Universidad\Programación\VB\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2._0.Reporte.resources
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\bin\Debug\Fatcash2.0.exe.config
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\bin\Debug\Fatcash2.0.exe
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\bin\Debug\Fatcash2.0.pdb
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\bin\Debug\Fatcash2.0.xml
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2.0.vbproj.AssemblyReference.cache
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2.0.vbproj.SuggestedBindingRedirects.cache
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2._0.Form1.resources
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2._0.Ingreso.resources
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2._0.Metas.resources
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2._0.Resources.resources
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2._0.Principal.resources
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2._0.Registro.resources
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2._0.Reporte.resources
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2.0.vbproj.GenerateResource.cache
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2.0.vbproj.CoreCompileInputs.cache
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2.0.exe
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2.0.xml
+F:\Universidad Tiffer\1. FatCash\2.0\Fatcash2.0\Fatcash2.0\obj\Debug\Fatcash2.0.pdb
