@@ -1,0 +1,80 @@
+# ===== Visual Studio / .NET =====
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.Cache
+*.aps
+*.ncb
+*.opendb
+ipch/
+*.VC.db
+
+# Binarios / compilados
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.pdb
+*.exe
+*.dll
+*.cache
+*.ilk
+*.lib
+*.iobj
+*.ipdb
+*.manifest
+
+# Paquetes / restaurables
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+artifacts/
+
+# Publicaciones locales
+publish/
+**/Properties/PublishProfiles/*.pubxml
+**/Properties/PublishProfiles/*.pubxml.user
+
+# Tests / cobertura
+TestResult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# ===== Archivos con posibles secretos =====
+# (Mantén un App.config de ejemplo sin credenciales)
+App.config
+Web.config
+*.config.user
+*.p12
+*.pfx
+*.pem
+*.key
+*.crt
+*.jks
+*.keystore
+*.ovpn
+*.kube/config
+
+# Bases locales / dumps
+*.sqlite*
+*.mdf
+*.ldf
+*.db
+*.bak
+*.dump
+dump.sql
+
+# Logs / temporales
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# SO / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
